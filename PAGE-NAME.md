@@ -1,5 +1,5 @@
 layout: page
 title: "PAGE-TITLE"
-permalink: /URL-PATH
+permalink: /test-page
 
 hello world, how are you
